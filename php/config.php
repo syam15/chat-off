@@ -1,8 +1,8 @@
 <?php
-  $hostname = "DB_HOST";
-  $username = "DB_USERNAME";
-  $password = "DB_PASSWORD";
-  $dbname = "DB_DBNAME";
+  $hostname = "bdspozjgjtkskhm28no9-mysql.services.clever-cloud.com";
+  $username = "uvjzkuyseoxpxqgp";
+  $password = "PhIY30d3JsOTPbbIftuh";
+  $dbname = "bdspozjgjtkskhm28no9";
 
   $conn = mysqli_connect($hostname, $username, $password, $dbname);
   if(!$conn){
