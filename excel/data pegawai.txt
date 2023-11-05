@@ -1,0 +1,5 @@
+INSERT INTO `users` (`user_id`, `unique_id`, `fname`, `lname`, `email`, `password`, `img`, `status`) VALUES ('1', '12345', 'ahmad', 'dahlan', 'ahmad@gmail.com', 'cf1e8c14e54505f60aa10ceb8d5d8ab3', 'ahmad.png', 'Offline Now');
+INSERT INTO `users` (`user_id`, `unique_id`, `fname`, `lname`, `email`, `password`, `img`, `status`) VALUES ('2', '12346', 'subroto', 'nugroho', 'subroto@gmail.com', 'cf1e8c14e54505f60aa10ceb8d5d8ab3', 'subroto.png', 'Offline Now');
+INSERT INTO `users` (`user_id`, `unique_id`, `fname`, `lname`, `email`, `password`, `img`, `status`) VALUES ('3', '12347', 'lalu', 'syam', 'lalu@gmail.com', 'cf1e8c14e54505f60aa10ceb8d5d8ab3', 'lalu.jpeg', 'Offline Now');
+INSERT INTO `users` (`user_id`, `unique_id`, `fname`, `lname`, `email`, `password`, `img`, `status`) VALUES ('4', '12348', 'server', 'data', 'admin@gmail.com', 'cf1e8c14e54505f60aa10ceb8d5d8ab3', 'admin.png', 'Offline Now');
+INSERT INTO `users` (`user_id`, `unique_id`, `fname`, `lname`, `email`, `password`, `img`, `status`) VALUES ('5', '12349', 'jono', 'joni', 'jono@gmail.com', 'cf1e8c14e54505f60aa10ceb8d5d8ab3', 'jono.png', 'Offline Now');
